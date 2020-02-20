@@ -7,4 +7,4 @@ SVM on MNIST
 ## Lab2
 ResNet on CIFAR-10 in Caffe
 
-largely based on https://github.com/yihui-he/resnet-cifar10-caffe
+Partly based on https://github.com/yihui-he/resnet-cifar10-caffe
